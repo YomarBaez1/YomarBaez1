@@ -10,20 +10,18 @@
 <br /><br />	
 
 ### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-<img alt="YomarBaez's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmasdiaz1&layout=compact&theme=dark" />	
+<img alt="YomarBaez's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomarbaez1&layout=compact&theme=dark" />	
 <br />	
 
 ### You can write by DM.
 [<img align="left" alt="YomarBaez | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]	
-
-[<img align="left" alt="YomarBaez | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]	
 
 <br />	
 <br />	
@@ -33,3 +31,5 @@
 
 
 ## If you want to contact me I leave you all my contact links.- [YomarBaez1](https://www.github.com/YomarBaez1)
+
+Gmail: yomarbaez2003@gmail.com
