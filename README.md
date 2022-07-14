@@ -1,8 +1,8 @@
-## Hello, I am available for different jobs with the following languages.- [YomarBaez1](https://www.github.com/YomarBaez)	
+## Hi, I'm FrontEnd Developer from the Dominican Republic- [YomarBaez1](https://www.github.com/YomarBaez)	
 
 - My name is Yomar Baez at your services.
 
-### Sobre Mi:	
+### About Me:	
 
 - 🚧 I never stop learning.
 - ✔️2022 Goals: Never surrender.
