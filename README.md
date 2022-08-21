@@ -1,4 +1,4 @@
-## Hi, I'm FrontEnd Developer from the Dominican Republic- [YomarBaez1](https://www.github.com/YomarBaez)	
+## Hi, I'm FullStack Developer from the Dominican Republic- [YomarBaez1](https://www.github.com/YomarBaez)	
 
 - My name is Yomar Baez at your services.
 
